@@ -8,12 +8,10 @@ This project aims to predict customer churn using data from a telecom company. T
 - [Features](#features)
 - [Requirements](#requirements)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Project Structure](#project-structure)
 - [Model Training](#model-training)
 - [Model Evaluation](#model-evaluation)
 - [Model Deployment](#model-deployment)
-- [Acknowledgements](#acknowledgements)
 
 ## Project Overview
 
